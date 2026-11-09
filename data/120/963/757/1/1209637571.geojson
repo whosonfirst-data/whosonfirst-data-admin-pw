@@ -49,7 +49,7 @@
         "gn:id":1559400
     },
     "wof:country":"PW",
-    "wof:geomhash":"112fe8e44cfbcab0049cb6f2fb936909",
+    "wof:geomhash":"ca732abd5c65a712b25c36630e3c91db",
     "wof:hierarchy":[
         {
             "country_id":85632331,
@@ -72,5 +72,5 @@
     134.47623000000002,
     7.33249
 ],
-  "geometry": {"coordinates":[134.47623000000002,7.33249],"type":"Point"}
+  "geometry": {"coordinates":[134.47623,7.33249],"type":"Point"}
 }

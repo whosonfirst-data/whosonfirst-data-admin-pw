@@ -61,7 +61,7 @@
         "wk:page":"Dongosaru"
     },
     "wof:country":"PW",
-    "wof:geomhash":"2b4d9fcfa1575b9dfc3777a464cec3c4",
+    "wof:geomhash":"8c8e3fbc49698907e1405c573cb38e24",
     "wof:hierarchy":[
         {
             "country_id":85632331,
@@ -86,5 +86,5 @@
     132.21943000000002,
     5.32608
 ],
-  "geometry": {"coordinates":[132.21943000000002,5.32608],"type":"Point"}
+  "geometry": {"coordinates":[132.21943,5.32608],"type":"Point"}
 }

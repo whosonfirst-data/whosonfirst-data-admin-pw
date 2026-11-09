@@ -51,7 +51,7 @@
         "wk:page":"Choll"
     },
     "wof:country":"PW",
-    "wof:geomhash":"d912a67aec1994c8b6e5fe73b6fd4448",
+    "wof:geomhash":"356d0453ad668241478b3bec0f8a6221",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -76,5 +76,5 @@
     134.63586999999998,
     7.67063
 ],
-  "geometry": {"coordinates":[134.63586999999998,7.67063],"type":"Point"}
+  "geometry": {"coordinates":[134.63587,7.67063],"type":"Point"}
 }

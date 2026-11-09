@@ -40,7 +40,7 @@
         "wk:page":"Ngebuked"
     },
     "wof:country":"PW",
-    "wof:geomhash":"ada9f6dddaab1de7febd237576235b61",
+    "wof:geomhash":"11369c38b07183ebb8470724391f587d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,5 +65,5 @@
     134.63048999999998,
     7.64191
 ],
-  "geometry": {"coordinates":[134.63048999999998,7.64191],"type":"Point"}
+  "geometry": {"coordinates":[134.63049,7.64191],"type":"Point"}
 }

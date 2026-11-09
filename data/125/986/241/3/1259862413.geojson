@@ -61,7 +61,7 @@
         "wk:page":"Kloulklubed"
     },
     "wof:country":"PW",
-    "wof:geomhash":"0b7c9f65b5e6b75b1e78e0e4781b5f07",
+    "wof:geomhash":"094845bd6b5a9c2bf41b8cc5a74ce709",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,5 +88,5 @@
     134.25561000000002,
     7.04192
 ],
-  "geometry": {"coordinates":[134.25561000000002,7.04192],"type":"Point"}
+  "geometry": {"coordinates":[134.25561,7.04192],"type":"Point"}
 }

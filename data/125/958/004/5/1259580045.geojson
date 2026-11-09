@@ -44,7 +44,7 @@
         "gn:id":1559338
     },
     "wof:country":"PW",
-    "wof:geomhash":"027c92010e36c0ca52716c4e54f568bb",
+    "wof:geomhash":"668a7b92f8a1b9fb57fab6cc36043054",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,5 +69,5 @@
     134.64096999999998,
     7.70006
 ],
-  "geometry": {"coordinates":[134.64096999999998,7.70006],"type":"Point"}
+  "geometry": {"coordinates":[134.64097,7.70006],"type":"Point"}
 }
