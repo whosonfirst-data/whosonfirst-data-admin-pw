@@ -1,0 +1,72 @@
+{
+  "id": 9895053770,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.25199,7.03526,134.25199,7.03526",
+    "geom:latitude":7.03526,
+    "geom:longitude":134.25199,
+    "iso:country":"PW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11776437: name \"Koska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11776437"
+        },
+        {
+            "citation":"GeoNames populated place 11776437: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11776437"
+        },
+        {
+            "citation":"GeoNames populated place 11776437: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11776437"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85676507 (Peleliu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632331,
+        85676507,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11776437
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"7a252515f4843a4f99bc07a26847fbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":9895053770,
+            "region_id":85676507
+        }
+    ],
+    "wof:id":9895053770,
+    "wof:lastmodified":1795735273,
+    "wof:name":"Koska",
+    "wof:parent_id":85676507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.25199,
+    7.03526,
+    134.25199,
+    7.03526
+],
+  "geometry": {"coordinates":[134.25199,7.03526],"type":"Point"}
+}
